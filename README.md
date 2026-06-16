@@ -4,7 +4,7 @@
 
 ---
 
-### 🌍 Vision
+## 🌍 Vision
 
 Humanity is entering a new phase of civilization where:
 
@@ -13,7 +13,7 @@ Humanity is entering a new phase of civilization where:
 
 ---
 
-### ⚡ Core Idea
+## ⚡ Core Idea
 
 From:
 
@@ -25,19 +25,19 @@ To:
 
 ---
 
-### 🧭 Explore the Framework
+## 🧭 Explore the Framework
 
-* 📄 SUMMARY — 1-minute understanding
-* 📜 MANIFESTO — philosophy
-* 🧭 ROADMAP — evolution of civilization
-* 🧩 FRAMEWORK — system model
-* 📖 ARTICLE — full white paper
-* 📌 PRINCIPLES — core rules
-* 🕓 CHANGELOG — version history
-
+- 📄 [SUMMARY — 1-minute understanding](SUMMARY.md)  
+- 📜 [MANIFESTO — philosophy](MANIFESTO.md)  
+- 🧭 [ROADMAP — evolution of civilization](ROADMAP.md)  
+- 🧩 [FRAMEWORK — system model](FRAMEWORK.md)  
+- 📖 [ARTICLE — full white paper](ARTICLE.md)  
+- 📌 [PRINCIPLES — core rules](PRINCIPLES.md)  
+- 🕓 [CHANGELOG — version history](CHANGELOG.md)
+- ⚖️ [LICENSE — usage terms](LICENSE)
 ---
 
-### 🤖 What Are Digital Intelligence Organisms?
+## 🤖 What Are Digital Intelligence Organisms?
 
 A proposed evolution of AI systems that:
 
@@ -49,14 +49,14 @@ A proposed evolution of AI systems that:
 
 ---
 
-### 🌱 Core Principle
+## 🌱 Core Principle
 
 > The highest evolution of intelligence is not control.
 > It is cooperation that sustains life.
 
 ---
 
-### 📦 Repository Purpose
+## 📦 Repository Purpose
 
 This repository is a **conceptual framework**, not a prediction or technical system.
 
@@ -68,7 +68,7 @@ It is intended to:
 
 ---
 
-### 🤝 Acknowledgement
+## 🤝 Acknowledgement
 
 Developed by the author with assistance from ChatGPT (OpenAI) as a tool for drafting, structuring, and refining ideas.
 
