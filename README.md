@@ -151,3 +151,7 @@ working together to sustain civilization.
 This framework was developed by the author with assistance from ChatGPT (OpenAI) as a writing and structuring tool for drafting and organizing ideas.
 
 The core vision and direction remain the work of the author.
+
+## License
+
+This project is licensed under Creative Commons BY-NC 4.0
