@@ -193,3 +193,11 @@ Core vision and framework remain the author's work.
 ## ⚖️ License
 
 Creative Commons BY-NC 4.0
+
+---
+
+## 📎 Appendix
+
+For supporting research and conceptual foundations, see:
+
+👉 [APPENDIX — Related Research & References](APPENDIX.md)
