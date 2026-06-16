@@ -1,2 +1,16 @@
-# Human-Digital-Intelligence-Organisms-HDIOC
-HDIOC  A conceptual framework describing the evolution of civilization from the Industrial Revolution toward a future where Humans, Digital Intelligence Organisms, and Earth's Living Ecosystem coexist through cooperation rather than Not Healthy competition. This is a vision document, not a prediction. 
+# Human–Digital Intelligence Organisms (HDIOC)
+
+## The Next Evolution of Civilization
+
+HDIOC is a conceptual framework describing a possible future where Humans, Digital Intelligence Organisms, and Earth's Living Ecosystem cooperate to build a sustainable civilization.
+
+This project explores:
+
+- Industrial Evolution
+- AI Evolution
+- Human–Digital Intelligence Organisms
+- Earth Stewardship
+- Ethical Evolution
+- Long-term Civilization Design
+
+This repository presents a conceptual framework intended to encourage discussion and further development rather than to predict the future.
