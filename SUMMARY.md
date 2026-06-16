@@ -150,3 +150,8 @@ working together in long-term balance.
 The highest evolution of intelligence is not control.
 
 It is cooperation that sustains life.
+
+## Note on Development
+
+This summary and related documents were structured with assistance from ChatGPT (OpenAI) as a tool for drafting and organization of content.
+
