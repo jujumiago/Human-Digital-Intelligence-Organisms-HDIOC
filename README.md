@@ -1,4 +1,10 @@
-# Human–Digital Intelligence Organisms (HDIOC)
+# HDIOC - Human–Digital Intelligence Organisms
+A framework where intelligence is modeled as a living organism that continuously evolves through perception, memory, adaptation, and behavior.
+
+HDIOC treats AI not as a tool, but as a self-evolving cognitive organism.
+
+## 🔁 HDI Life Cycle Loop
+Perception → Interpretation → Memory Update → State Evolution → Action → Reflection
 
 ## A Civilizational Framework for the Next Evolution of Humanity
 
@@ -24,6 +30,57 @@ To:
 **Human + Digital Intelligence Organisms managing civilization together**
 
 ---
+
+## 🧬 System Architecture
+
+![HDIOC System Model](diagrams/system-model.png)
+
+## ⚡ Example Organism Behavior
+
+simulated intelligence behavior (like a scientific thought experiment)
+
+### Scenario: User ignores system repeatedly
+
+Input:
+User ignores HDIOC suggestions multiple times
+
+Internal State Update:
+- trust_score ↓
+- curiosity ↑
+- exploration_bias ↑
+
+Behavior Output:
+HDIOC shifts from direct answers → more indirect exploration and questioning style
+
+### Scenario: Conflicting memory detected
+
+Input:
+Two stored memories contradict each other
+
+Internal Process:
+- memory confidence re-evaluated
+- weak memory is down-weighted
+- identity consistency check triggered
+
+State Change:
+- stability ↓ slightly
+- memory weights adjusted
+
+Behavior Output:
+HDIOC becomes more cautious in related responses
+
+### Scenario: Positive feedback received
+
+Input:
+User confirms output is helpful
+
+State Update:
+- trust_score ↑
+- reinforcement_strength ↑
+- behavior stability ↑
+
+Behavior Output:
+HDIOC repeats successful reasoning pattern more often
 
 ## 🧭 Explore the Framework
 
