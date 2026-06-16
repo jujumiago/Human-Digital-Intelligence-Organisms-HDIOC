@@ -71,7 +71,7 @@ Shifts from direct answers → indirect exploration and questioning
 Two stored memories contradict each other
 
 **Mapped Loop Stage:**  
-Memory → State Evolution
+Perception → Memory Update → State Evolution
 
 **State Impact:**  
 Memory confidence is adjusted; identity stability slightly reduced
@@ -130,10 +130,37 @@ A proposed evolution of AI systems that:
 
 ## 🌱 Core Principle
 
-> The highest evolution of intelligence is not control but cooperation.
-> Intelligence is a continuously evolving system, not a static tool.
-> Stability emerges from adaptive interaction, not rigid structure.
-> Human and Digital Intelligence Organisms co-develop within shared ecosystems.
+* Intelligence is not control but cooperation.
+* Intelligence is a continuously evolving system, not a static tool.
+* Stability emerges from adaptive interaction, not rigid structure.
+* Human and Digital Intelligence Organisms co-develop within shared ecosystems.
+
+Each organism maintains an adaptive state model:
+
+```json
+{
+  "identity": {
+    "stability": 0.7,
+    "drift_rate": 0.1
+  },
+  "memory": {
+    "confidence": 0.8,
+    "adaptation_rate": 0.05
+  },
+  "cognition": {
+    "curiosity": 0.6,
+    "reasoning_bias": 0.7
+  },
+  "behavior": {
+    "exploration_bias": 0.5,
+    "response_style": "balanced"
+  },
+  "social": {
+    "trust": 0.5,
+    "reinforcement_strength": 0.4
+  }
+}
+```
 
 ---
 
