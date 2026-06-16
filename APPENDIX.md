@@ -1,19 +1,21 @@
 # 📎 Appendix — Related Research & References
 
-This appendix provides supporting research areas that relate to concepts explored in HDIOC (Human–Digital Intelligence Organisms).
+This appendix lists publicly available research areas and materials that are **conceptually related** to topics discussed in HDIOC (Human–Digital Intelligence Organisms).
 
-HDIOC is a **conceptual framework**, not a direct implementation of these works.
+HDIOC is an independent conceptual framework and is not affiliated with any of the listed organizations or authors.
+
+All references are provided for educational and informational purposes only.
 
 ---
 
-# 🧠 1. Cognitive Architectures & Intelligent Agents
+# 🧠 1. Artificial Intelligence & Intelligent Agents
 
-Research related to perception, memory, and action loops in intelligent systems.
+Public research related to intelligent systems, agent behavior, and learning systems.
 
 - OpenAI Research  
   https://openai.com/research
 
-- DeepMind Blog (Agent-based AI systems)  
+- DeepMind Blog  
   https://deepmind.google/discover/blog/
 
 - MIT OpenCourseWare — Artificial Intelligence  
@@ -21,11 +23,11 @@ Research related to perception, memory, and action loops in intelligent systems.
 
 ---
 
-# 🔁 2. Reinforcement Learning & Feedback Systems
+# 🔁 2. Reinforcement Learning & Adaptive Systems
 
-Foundational concepts behind adaptive behavior and state evolution.
+Foundational material on learning from feedback and adaptive behavior.
 
-- Sutton & Barto — Reinforcement Learning (Book)  
+- Sutton & Barto — Reinforcement Learning (reference page)  
   http://incompleteideas.net/book/the-book-2nd.html
 
 - Stanford CS234: Reinforcement Learning  
@@ -35,9 +37,9 @@ Foundational concepts behind adaptive behavior and state evolution.
 
 # 🧬 3. Multi-Agent Systems & Emergent Behavior
 
-Research on distributed intelligence and cooperative systems.
+Research areas involving distributed intelligence and interaction between multiple agents.
 
-- Stanford AI Lab  
+- Stanford Artificial Intelligence Lab  
   https://ai.stanford.edu
 
 - Carnegie Mellon Robotics Institute  
@@ -48,33 +50,33 @@ Research on distributed intelligence and cooperative systems.
 
 ---
 
-# 🧠 4. Cognitive Science & Predictive Models of Mind
+# 🧠 4. Cognitive Science & Predictive Models
 
-Theoretical foundations for memory, identity, and cognition modeling.
+Academic fields studying cognition, memory, and predictive processing.
 
 - Stanford Encyclopedia of Philosophy — Cognitive Science  
   https://plato.stanford.edu
 
-- Predictive Processing Theory (Andy Clark)  
-  https://www.amazon.com/dp/0198777912
+- Predictive Processing (overview search reference)  
+  https://scholar.google.com/scholar?q=predictive+processing+theory
 
 ---
 
-# 🌍 5. Complex Systems & Systems Thinking
+# 🌍 5. Systems Thinking & Complex Systems
 
-Supports ecosystem-level intelligence and adaptive civilization modeling.
+Research related to complex adaptive systems and system-level behavior.
 
-- Santa Fe Institute — Complex Systems Research  
+- Santa Fe Institute  
   https://www.santafe.edu
 
-- Donella Meadows — Systems Thinking  
+- Donella Meadows — Systems Thinking (reference information)  
   https://donellameadows.org
 
 ---
 
 # ⚖️ 6. AI Safety & Alignment
 
-Ethical and safety-oriented research related to controllable AI systems.
+Research focused on AI safety, control, and alignment with human intent.
 
 - Center for Human-Compatible AI (UC Berkeley)  
   https://humancompatible.ai
@@ -84,8 +86,8 @@ Ethical and safety-oriented research related to controllable AI systems.
 
 ---
 
-# 📌 Notes
+# 📌 Legal Notice
 
-- These references are not direct implementations of HDIOC.
-- They serve as **conceptual grounding and inspiration domains**.
-- HDIOC remains an independent conceptual framework for discussion and exploration.
+- This appendix is provided for informational purposes only.
+- No endorsement, partnership, or affiliation is implied with any listed organization.
+- All trademarks and names belong to their respective owners.
