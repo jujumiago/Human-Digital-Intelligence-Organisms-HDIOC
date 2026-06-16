@@ -198,6 +198,8 @@ Creative Commons BY-NC 4.0
 
 ## 📎 Appendix
 
-For supporting research and conceptual foundations, see:
+This project references external research areas for conceptual context only.
 
-👉 [APPENDIX — Related Research & References](APPENDIX.md)
+No affiliation or endorsement is implied.
+
+👉 [Appendix — Related Research & References](APPENDIX.md)
