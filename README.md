@@ -14,3 +14,9 @@ This project explores:
 - Long-term Civilization Design
 
 This repository presents a conceptual framework intended to encourage discussion and further development rather than to predict the future.
+
+## Acknowledgements
+
+This framework was developed by the author with assistance from ChatGPT (OpenAI) as a writing and structuring tool for drafting, organization, and refinement of ideas.
+
+The core concept, vision, and direction of the HDIOC Framework remain the intellectual work of the author.
