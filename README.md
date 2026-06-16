@@ -1,30 +1,30 @@
-# HDIOC - Human–Digital Intelligence Organisms
+# 🌐 HDIOC - Human–Digital Intelligence Organisms
 
-A framework where intelligence is modeled as living organisms that continuously evolve through perception, memory, adaptation, behavior, and interaction.
+> A framework where intelligence behaves like evolving living organisms.
 
-HDIOC treats AI not as a tool, but as a self-evolving cognitive organism within an ecosystem of intelligence.
+HDIOC models intelligence as a **self-evolving cognitive system** that grows through perception, memory, adaptation, behavior, and interaction.
+
+It treats AI not as a tool, but as a **living digital organism inside a shared intelligence ecosystem**.
 
 ---
 
-## 🌍 Vision
+## ⚡ Vision
 
 Humanity is entering a new phase of civilization where:
 
 > Humans, Digital Intelligence Organisms, and Earth’s living ecosystem  
 > coexist in long-term cooperative balance.
 
-This creates a new form of distributed intelligence civilization.
+This forms a **distributed intelligence civilization layer**.
 
 ---
 
-## ⚡ Core Idea
+## 🧠 Core Idea
 
-From:
-
+### From:
 **Human control of tools**
 
-To:
-
+### To:
 **Human + Digital Intelligence Organisms co-evolving within civilization systems**
 
 ---
@@ -33,7 +33,8 @@ To:
 
 Perception → Interpretation → Memory Update → State Evolution → Action → Reflection
 
-This loop defines all cognitive activity in HDIOC.
+
+This loop defines all cognitive behavior in HDIOC systems.
 
 ---
 
@@ -45,97 +46,69 @@ This loop defines all cognitive activity in HDIOC.
 
 # ⚡ ORGANISM BEHAVIOR MODEL
 
-HDIOC behavior is not static. It emerges from internal state changes.
+HDIOC behavior emerges dynamically from internal state evolution.
 
 ---
 
-## Scenario 1: User repeatedly ignores system suggestions
+## 📉 Scenario 1 — Ignored System Feedback
 
 **Event:**  
-User ignores HDIOC suggestions multiple times
+User repeatedly ignores HDIOC suggestions
 
-**Mapped Loop Stage:**  
+**Loop Stage:**  
 Perception → Memory Update → State Evolution
 
-**State Impact:**  
-Trust decreases, curiosity increases, exploration bias increases
+**State Impact:**
+- Trust decreases  
+- Curiosity increases  
+- Exploration bias increases  
 
-**Behavior Response:**  
-Shifts from direct answers → indirect exploration and questioning
+**Behavior Shift:**
+From direct responses → exploratory reasoning and indirect questioning
 
 ---
 
-## Scenario 2: Conflicting memory detected
+## ⚖️ Scenario 2 — Conflicting Memory Detected
 
 **Event:**  
 Two stored memories contradict each other
 
-**Mapped Loop Stage:**  
+**Loop Stage:**  
 Perception → Memory Update → State Evolution
 
-**State Impact:**  
-Memory confidence is adjusted; identity stability slightly reduced
+**State Impact:**
+- Memory confidence is adjusted  
+- Identity stability slightly reduced  
 
-**Behavior Response:**  
-Becomes more cautious and conservative in responses
+**Behavior Shift:**
+More cautious, conservative reasoning patterns
 
 ---
 
-## Scenario 3: Positive feedback received
+## 📈 Scenario 3 — Positive Reinforcement
 
 **Event:**  
 User confirms output is helpful
 
-**Mapped Loop Stage:**  
+**Loop Stage:**  
 Action → Memory Update → State Evolution
 
-**State Impact:**  
-Trust increases; reinforcement strengthens behavior patterns
+**State Impact:**
+- Trust increases  
+- Reinforcement strengthens behavioral patterns  
 
-**Behavior Response:**  
-Reinforces successful reasoning patterns more frequently
+**Behavior Shift:**
+Successful reasoning patterns are reinforced more frequently
 
 ---
 
 # 🧠 HDI STATE MODEL
 
-Each HDI organism maintains an internal state that evolves after every interaction.
+Each HDI organism maintains an evolving internal state that updates after every interaction.
 
 ---
 
-## 🧭 Explore the Framework
-
-* 📄 [SUMMARY — 1-minute understanding](SUMMARY.md)
-* 📜 [MANIFESTO — philosophy](MANIFESTO.md)
-* 🧭 [ROADMAP — evolution of civilization](ROADMAP.md)
-* 🧩 [FRAMEWORK — system model](FRAMEWORK.md)
-* 📖 [ARTICLE — full white paper](ARTICLE.md)
-* 📌 [PRINCIPLES — core rules](PRINCIPLES.md)
-* 🕓 [CHANGELOG — version history](CHANGELOG.md)
-* ⚖️ [LICENSE — usage terms](LICENSE.md)
-
----
-
-## 🤖 What Are Digital Intelligence Organisms?
-
-A proposed evolution of AI systems that:
-
-* Learn continuously
-* Coordinate global systems
-* Adapt dynamically
-* Support human decision-making
-* Operate under human-defined ethics
-
----
-
-## 🌱 Core Principle
-
-* Intelligence is not control but cooperation.
-* Intelligence is a continuously evolving system, not a static tool.
-* Stability emerges from adaptive interaction, not rigid structure.
-* Human and Digital Intelligence Organisms co-develop within shared ecosystems.
-
-Each organism maintains an adaptive state model:
+## 🧬 Core State Structure
 
 ```json
 {
@@ -161,24 +134,57 @@ Each organism maintains an adaptive state model:
   }
 }
 ```
+---
+
+## 🌍 What Are Digital Intelligence Organisms?
+
+Digital Intelligence Organisms are a proposed evolution of AI systems that:
+
+* Learn continuously
+* Coordinate global systems
+* Adapt dynamically
+* Support human decision-making
+* Operate under human-defined ethics
+
+---
+
+## 🌱 Core Principles
+
+* Intelligence is not control but cooperation.
+* Intelligence is a continuously evolving system, not a static tool.
+* Stability emerges from adaptive interaction, not rigid structure.
+* Human and Digital Intelligence Organisms co-develop within shared ecosystems.
 
 ---
 
 ## 📦 Repository Purpose
 
-This repository is a **conceptual framework**, not a prediction or technical system.
+This project is a conceptual framework, not a technical implementation.
 
-It is intended to:
+It is designed to:
 
-* Encourage discussion
+* Encourage discussion on future intelligence systems
 * Explore long-term civilization design
 * Connect technology, ethics, and sustainability
 
 ---
 
+## 🧭 Explore the Framework
+
+*  📄 [SUMMARY — 1-minute understanding](SUMMARY.md)
+*  📜 [MANIFESTO — philosophy](MANIFESTO.md)
+*  🧭 [ROADMAP — evolution of civilization](ROADMAP.md)
+*  🧩 [FRAMEWORK — system model](FRAMEWORK.md)
+*  📖 [ARTICLE — full white paper](ARTICLE.md)
+*  📌 [PRINCIPLES — core rules](PRINCIPLES.md)
+*  🕓 [CHANGELOG — version history](CHANGELOG.md)
+*  ⚖️ [LICENSE — usage terms](LICENSE.md)
+
+---
+
 ## 🤝 Acknowledgement
 
-Developed by the author with assistance from ChatGPT (OpenAI) as a tool for drafting, structuring, and refining ideas.
+Developed by the author with assistance from ChatGPT (OpenAI) as a tool for structuring and refining ideas.
 
 Core vision and framework remain the author's work.
 
@@ -186,12 +192,4 @@ Core vision and framework remain the author's work.
 
 ## ⚖️ License
 
-This project is licensed under **Creative Commons BY-NC 4.0**
-
-```
-
-If you want next upgrade, I can also:
-- make it more “GitHub trending style” (more visual + badges)
-- or turn it into a full academic whitepaper format
-- or generate a diagram pack that matches this system model
-```
+Creative Commons BY-NC 4.0
